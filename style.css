@@ -10,9 +10,3 @@
     width: 1140px;
     margin: 0 auto;
 }
-@media(max-width:1050px){
-    .container{
-        width: 900px;
-    }
-    
-}
